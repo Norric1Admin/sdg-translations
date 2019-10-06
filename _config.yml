@@ -10,7 +10,7 @@ repo: "https://github.com/norric1admin/sdg-translations"
 # Build settings
 markdown: kramdown
 source: www
-theme: uswds-jekyll
+theme: jekyll-theme-slate
 
 # Python scripts build these files, so tell Jekyll not to process them
 keep_files:
